@@ -1,1 +1,19 @@
+Step1:
+We will resize all of the images into 400*400 pixel.
 
+Step2:
+The thickness of OCT, don’t have to pre-processing.
+For the training of OCTA, we find the main color in the image to remove the background.
+For FAG, we calculate the before and after injection of the image into the matrix, and merge two matrices into a new image.
+
+Step3:
+To slice the image into 4,8,12 pieces with straight and cross cut, we mask the area we unnecessary.
+
+Step4:
+We calculate the RBG of the image, give a weight to red, green and blue to get all slices of the score, at least we sort all slices of score, from small to large. 
+
+Step5: 
+The image of training of OCTA, there have four layer in class, before similarity comparison, we combine 1 and 2 layers with its RBG, and 3 and 4 layers with the same process, to get a new sort of rank.
+
+Step6: 
+In this step we got the thickness of OCT, FAG image, the training OCTA with 1+2 and 3+4 layer of all slice scores. We want to observe the different of three kinds of image with their sort in the same ID, through Levenshtein Distance, Hamming Distance, Wasserstein Distance, Approximate string Distance, Dice coefficient Distance… etc. To observe the difference in each shot.
