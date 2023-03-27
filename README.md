@@ -2,8 +2,8 @@
 
 - [Medical Image Segmentation](#Medical-Image-Segmentation)
 - [Medical Image Classification](#Medical-Image-Classification)
-- [Weight The Segmented Medical Image](#Weight The Segmented Medical Image)
-- [Sort The Medical Images](#Sort The Medical Images)
+- [Weight The Segmented Medical Image](#Weight-The-Segmented-Medical-Image)
+- [Sort The Medical Images](#Sort-The-Medical-Images)
 - [Medical Image Detection](#Medical-Image-Detection)
 
 ## Medical Image Segmentation
