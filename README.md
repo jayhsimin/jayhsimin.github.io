@@ -2,30 +2,26 @@
 
 - [Medical Image Segmentation](#Medical-Image-Segmentation)
 - [Medical Image Classification](#Medical-Image-Classification)
-- [Medical Image Reconstruction](#Medical-Image-Reconstruction)
-- [Medical Image Registration](#Medical-Image-Registration)
-- [Medical Image Synthesis](#Medical-Image-Synthesis)
+- [Weight The Segmented Medical Image](#Weight The Segmented Medical Image)
+- [Sort The Medical Images](#Sort The Medical Images)
 - [Medical Image Detection](#Medical-Image-Detection)
 
 ## Medical Image Segmentation
 
-正文
+影像切科
 
 ## Medical Image Classification
 
-正文
+將切割完成影像作整理
 
-## Medical Image Reconstruction
+## Weight The Segmented Medical Image
 
-正文
+加入權重
 
-## Medical Image Registration
+## Sort The Medical Images
 
-正文
+做排序
 
-## Medical Image Synthesis
-
-正文
 ## Medical Image Detection
 
-
+進行相似度檢驗
