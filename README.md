@@ -32,21 +32,35 @@
 ## Medical Image Detection
 
 
-
-# Survey papers
-
-正文
-
-## 子标题1
+# Medical Image Segmentation
 
 正文
 
-## 子标题2
+## Medical Image Classification
+
+正文
+
+## Medical Image Reconstruction
+
+正文
+
+## Medical Image Registration
+
+正文
+
+## Medical Image Synthesis
+
+正文
+
+## Medical Image Detection
 
 正文
 
 ## 目录
 
-- [Survey papers](#Survey-papers)
-- [子标题1](#子标题1)
-- [子标题2](#子标题2)
+- [Medical Image Segmentation](#Medical-Image-Segmentation)
+  - [Medical Image Classification](#Medical-Image-Classification)
+  - [Medical Image Reconstruction](#Medical-Image-Reconstruction)
+  - [Medical Image Registration](#Medical-Image-Registration)
+  - [Medical Image Synthesis](#Medical-Image-Synthesis)
+  - [Medical Image Detection](#Medical-Image-Detection)
