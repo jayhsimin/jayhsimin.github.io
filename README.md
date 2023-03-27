@@ -7,7 +7,7 @@
 - [Medical Image Synthesis](#Medical-Image-Synthesis)
 - [Medical Image Detection](#Medical-Image-Detection)
 
-# Medical Image Segmentation
+## Medical Image Segmentation
 
 正文
 
