@@ -29,27 +29,3 @@
 ## Medical Image Detection
 
 
-# Medical Image Segmentation
-
-正文
-
-## Medical Image Classification
-
-正文
-
-## Medical Image Reconstruction
-
-正文
-
-## Medical Image Registration
-
-正文
-
-## Medical Image Synthesis
-
-正文
-
-## Medical Image Detection
-
-正文
-
